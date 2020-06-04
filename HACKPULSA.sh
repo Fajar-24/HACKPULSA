@@ -19,12 +19,12 @@ cyan='\e[1;36m'
 red='\e[1;31m'
 clear
 figlet "PULSA"|lolcat
-echo "###########################################################################"
+echo "###########################################################################"|lolcat
 echo "AUTHOR   : FAJAR CYBER"
 echo "WHATSAPP : 08817805411"
 echo "GITHUB   : GITHUB.COM/FAJAR-24"
 echo "JANGAN DI RECODE YA TOD"|lolcat
-echo "###########################################################################"
+echo "###########################################################################"|lolcat
 echo
 echo "PILIH MENU PULSA"|lolcat
 echo "[1] AXIS "|lolcat
