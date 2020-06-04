@@ -1,12 +1,8 @@
-echo " TUNGGU SEBENTAR SCRIPT AKAN DI INSTALL "|lolcat
-echo " SCRIPT AKAN DI INSTALL TUNGGU 5 DETIK "|lolcat
-figlet "5"|lolcat
-figlet "4"|lolcat
-figlet "3"|lolcat
-figlet "2"|lolcat
-figlet "1"|lolcat
-#Jangan Di Recode Ya Cok
+
+#!/usr/bin/sh
+# coding=utf-8
 clear
+# Variables
 b='\033[1m'
 u='\033[4m'
 bl='\E[30m'
