@@ -33,8 +33,7 @@ echo "[3] INDOSAT"|lolcat
 echo "[4] SMARTFREN"|lolcat
 echo "[5] TELKOMSEL"|lolcat
 echo
-read -p "[✓] PILIH : " pil:
-$pilih in
+read -p "[✓] PILIH : " read tr
 echo "*OK TUNGGU SEBENTAR..."|lolcat
 echo "############################"|lolcat
 echo "SILAKAN PILIH BERAPA PULSA"|lolcat
@@ -45,7 +44,7 @@ echo "[2] 20 K "|lolcat
 echo "[3] 50 K"|lolcat
 echo "[5] 100 K "|lolcat
 echo
-read -p "[✓] PILIH : " pil:
+read -p "[✓] PILIH : " read tr
 echo "TUNGGU SEBENTAR..."|lolcat
 read -p "MASUKKAN NOMOR ANDA : " MASUKAN:
 echo "* TUNGGU SEBENTAR..."|lolcat
@@ -73,4 +72,4 @@ echo "PROSES"|lolcat
 echo "*BERHASIL ✓"
 figlet "GOODBYE"|lolcat
 echo "TERIMA KASIH TELAH MENGGUNAKAN SCRIPT INI"|lolcat
-echo "GOOD BYE"|lolcat
+echo "BY : FAJAR CYBER"|lolcat
